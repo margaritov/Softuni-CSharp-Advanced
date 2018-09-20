@@ -1,0 +1,11 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\bin\Debug\netcoreapp2.0\5_CalculateSequence.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\bin\Debug\netcoreapp2.0\5_CalculateSequence.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\bin\Debug\netcoreapp2.0\5_CalculateSequence.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\bin\Debug\netcoreapp2.0\5_CalculateSequence.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\bin\Debug\netcoreapp2.0\5_CalculateSequence.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\5_CalculateSequence\obj\Debug\netcoreapp2.0\5_CalculateSequence.csprojAssemblyReference.cache

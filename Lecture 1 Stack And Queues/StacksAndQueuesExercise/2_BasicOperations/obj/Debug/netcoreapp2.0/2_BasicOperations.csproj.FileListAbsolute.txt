@@ -1,0 +1,11 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\bin\Debug\netcoreapp2.0\2_BasicOperations.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\bin\Debug\netcoreapp2.0\2_BasicOperations.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\bin\Debug\netcoreapp2.0\2_BasicOperations.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\bin\Debug\netcoreapp2.0\2_BasicOperations.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\bin\Debug\netcoreapp2.0\2_BasicOperations.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.csprojAssemblyReference.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\2_BasicOperations\obj\Debug\netcoreapp2.0\2_BasicOperations.pdb

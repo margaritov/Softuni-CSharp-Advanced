@@ -1,0 +1,11 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\bin\Debug\netcoreapp2.0\7_BalancedParenthesis.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\bin\Debug\netcoreapp2.0\7_BalancedParenthesis.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\bin\Debug\netcoreapp2.0\7_BalancedParenthesis.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\bin\Debug\netcoreapp2.0\7_BalancedParenthesis.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\bin\Debug\netcoreapp2.0\7_BalancedParenthesis.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.csprojAssemblyReference.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\7_BalancedParenthesis\obj\Debug\netcoreapp2.0\7_BalancedParenthesis.pdb

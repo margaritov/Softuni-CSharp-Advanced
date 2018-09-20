@@ -1,0 +1,10 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\bin\Debug\netcoreapp2.0\8_StackFibonacci.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\bin\Debug\netcoreapp2.0\8_StackFibonacci.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\bin\Debug\netcoreapp2.0\8_StackFibonacci.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\bin\Debug\netcoreapp2.0\8_StackFibonacci.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\bin\Debug\netcoreapp2.0\8_StackFibonacci.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\obj\Debug\netcoreapp2.0\8_StackFibonacci.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\obj\Debug\netcoreapp2.0\8_StackFibonacci.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\obj\Debug\netcoreapp2.0\8_StackFibonacci.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\obj\Debug\netcoreapp2.0\8_StackFibonacci.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\8_StackFibonacci\obj\Debug\netcoreapp2.0\8_StackFibonacci.pdb

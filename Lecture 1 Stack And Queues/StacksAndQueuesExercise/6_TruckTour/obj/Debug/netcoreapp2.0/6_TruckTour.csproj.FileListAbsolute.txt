@@ -1,0 +1,11 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\bin\Debug\netcoreapp2.0\6_TruckTour.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\bin\Debug\netcoreapp2.0\6_TruckTour.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\bin\Debug\netcoreapp2.0\6_TruckTour.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\bin\Debug\netcoreapp2.0\6_TruckTour.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\bin\Debug\netcoreapp2.0\6_TruckTour.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.csprojAssemblyReference.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\6_TruckTour\obj\Debug\netcoreapp2.0\6_TruckTour.pdb

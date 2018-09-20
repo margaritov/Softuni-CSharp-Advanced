@@ -1,0 +1,11 @@
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\bin\Debug\netcoreapp2.0\3_MaximumElement.deps.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\bin\Debug\netcoreapp2.0\3_MaximumElement.runtimeconfig.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\bin\Debug\netcoreapp2.0\3_MaximumElement.runtimeconfig.dev.json
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\bin\Debug\netcoreapp2.0\3_MaximumElement.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\bin\Debug\netcoreapp2.0\3_MaximumElement.pdb
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.csprojAssemblyReference.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.csproj.CoreCompileInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.AssemblyInfoInputs.cache
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.AssemblyInfo.cs
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.dll
+C:\2018-C# Advanced\Lecture 1\StacksAndQueuesExercise\3_MaximumElement\obj\Debug\netcoreapp2.0\3_MaximumElement.pdb
