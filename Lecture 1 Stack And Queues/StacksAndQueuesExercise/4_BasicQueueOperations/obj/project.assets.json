@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\4_BasicQueueOperations\\4_BasicQueueOperations.csproj",
+      "projectUniqueName": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\4_BasicQueueOperations\\4_BasicQueueOperations.csproj",
       "projectName": "4_BasicQueueOperations",
-      "projectPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\4_BasicQueueOperations\\4_BasicQueueOperations.csproj",
+      "projectPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\4_BasicQueueOperations\\4_BasicQueueOperations.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\4_BasicQueueOperations\\obj\\",
+      "outputPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\4_BasicQueueOperations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"

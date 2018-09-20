@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\8_StackFibonacci\\8_StackFibonacci.csproj",
+      "projectUniqueName": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\8_StackFibonacci\\8_StackFibonacci.csproj",
       "projectName": "8_StackFibonacci",
-      "projectPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\8_StackFibonacci\\8_StackFibonacci.csproj",
+      "projectPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\8_StackFibonacci\\8_StackFibonacci.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\8_StackFibonacci\\obj\\",
+      "outputPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\8_StackFibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"

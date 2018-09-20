@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\bin\Debug\netcoreapp2.0\10_PoisonusPlants.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\bin\Debug\netcoreapp2.0\10_PoisonusPlants.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\bin\Debug\netcoreapp2.0\10_PoisonusPlants.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\bin\Debug\netcoreapp2.0\10_PoisonusPlants.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\bin\Debug\netcoreapp2.0\10_PoisonusPlants.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 1 Stack And Queues\StacksAndQueuesExercise\10_PoisonusPlants\obj\Debug\netcoreapp2.0\10_PoisonusPlants.pdb

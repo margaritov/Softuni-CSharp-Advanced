@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\5_CalculateSequence\\5_CalculateSequence.csproj",
+      "projectUniqueName": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\5_CalculateSequence\\5_CalculateSequence.csproj",
       "projectName": "5_CalculateSequence",
-      "projectPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\5_CalculateSequence\\5_CalculateSequence.csproj",
+      "projectPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\5_CalculateSequence\\5_CalculateSequence.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\5_CalculateSequence\\obj\\",
+      "outputPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\5_CalculateSequence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"

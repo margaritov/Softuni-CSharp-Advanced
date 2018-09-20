@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\6_TruckTour\\6_TruckTour.csproj",
+      "projectUniqueName": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\6_TruckTour\\6_TruckTour.csproj",
       "projectName": "6_TruckTour",
-      "projectPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\6_TruckTour\\6_TruckTour.csproj",
+      "projectPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\6_TruckTour\\6_TruckTour.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "C:\\2018-C# Advanced\\Lecture 1\\StacksAndQueuesExercise\\6_TruckTour\\obj\\",
+      "outputPath": "C:\\Softuni\\Softuni-CSharp-Advanced\\Lecture 1 Stack And Queues\\StacksAndQueuesExercise\\6_TruckTour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
