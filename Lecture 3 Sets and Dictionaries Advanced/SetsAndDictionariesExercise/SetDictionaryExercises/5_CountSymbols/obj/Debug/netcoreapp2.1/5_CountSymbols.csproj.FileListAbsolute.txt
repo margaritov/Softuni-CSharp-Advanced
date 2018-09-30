@@ -1,0 +1,10 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\obj\Debug\netcoreapp2.1\5_CountSymbols.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\obj\Debug\netcoreapp2.1\5_CountSymbols.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\obj\Debug\netcoreapp2.1\5_CountSymbols.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\bin\Debug\netcoreapp2.1\5_CountSymbols.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\bin\Debug\netcoreapp2.1\5_CountSymbols.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\bin\Debug\netcoreapp2.1\5_CountSymbols.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\bin\Debug\netcoreapp2.1\5_CountSymbols.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\bin\Debug\netcoreapp2.1\5_CountSymbols.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\obj\Debug\netcoreapp2.1\5_CountSymbols.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\5_CountSymbols\obj\Debug\netcoreapp2.1\5_CountSymbols.pdb

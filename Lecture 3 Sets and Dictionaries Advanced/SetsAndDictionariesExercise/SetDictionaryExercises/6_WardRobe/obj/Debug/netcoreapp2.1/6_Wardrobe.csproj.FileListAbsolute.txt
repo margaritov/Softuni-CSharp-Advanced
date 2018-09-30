@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\bin\Debug\netcoreapp2.1\6_Wardrobe.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\bin\Debug\netcoreapp2.1\6_Wardrobe.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\bin\Debug\netcoreapp2.1\6_Wardrobe.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\bin\Debug\netcoreapp2.1\6_Wardrobe.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\bin\Debug\netcoreapp2.1\6_Wardrobe.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\6_WardRobe\obj\Debug\netcoreapp2.1\6_Wardrobe.pdb

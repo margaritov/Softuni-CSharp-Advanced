@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\bin\Debug\netcoreapp2.1\2_SetsOfElements.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\bin\Debug\netcoreapp2.1\2_SetsOfElements.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\bin\Debug\netcoreapp2.1\2_SetsOfElements.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\bin\Debug\netcoreapp2.1\2_SetsOfElements.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\bin\Debug\netcoreapp2.1\2_SetsOfElements.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\2_SetsOfElements\obj\Debug\netcoreapp2.1\2_SetsOfElements.pdb

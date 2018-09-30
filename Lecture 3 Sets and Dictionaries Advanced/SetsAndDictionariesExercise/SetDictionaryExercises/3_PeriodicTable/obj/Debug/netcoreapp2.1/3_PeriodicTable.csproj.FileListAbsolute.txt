@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\bin\Debug\netcoreapp2.1\3_PeriodicTable.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\bin\Debug\netcoreapp2.1\3_PeriodicTable.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\bin\Debug\netcoreapp2.1\3_PeriodicTable.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\bin\Debug\netcoreapp2.1\3_PeriodicTable.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\bin\Debug\netcoreapp2.1\3_PeriodicTable.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\3_PeriodicTable\obj\Debug\netcoreapp2.1\3_PeriodicTable.csprojAssemblyReference.cache

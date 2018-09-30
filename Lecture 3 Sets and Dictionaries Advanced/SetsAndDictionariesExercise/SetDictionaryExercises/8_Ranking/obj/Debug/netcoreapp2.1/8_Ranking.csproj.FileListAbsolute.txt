@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\bin\Debug\netcoreapp2.1\8_Ranking.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\bin\Debug\netcoreapp2.1\8_Ranking.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\bin\Debug\netcoreapp2.1\8_Ranking.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\bin\Debug\netcoreapp2.1\8_Ranking.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\bin\Debug\netcoreapp2.1\8_Ranking.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\8_Ranking\obj\Debug\netcoreapp2.1\8_Ranking.pdb

@@ -1,0 +1,10 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\bin\Debug\netcoreapp2.1\4_EvenTimes.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\bin\Debug\netcoreapp2.1\4_EvenTimes.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\bin\Debug\netcoreapp2.1\4_EvenTimes.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\bin\Debug\netcoreapp2.1\4_EvenTimes.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\bin\Debug\netcoreapp2.1\4_EvenTimes.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\obj\Debug\netcoreapp2.1\4_EvenTimes.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\obj\Debug\netcoreapp2.1\4_EvenTimes.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\obj\Debug\netcoreapp2.1\4_EvenTimes.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\obj\Debug\netcoreapp2.1\4_EvenTimes.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\4_EvenTimes\obj\Debug\netcoreapp2.1\4_EvenTimes.pdb

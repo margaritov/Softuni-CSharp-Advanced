@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\bin\Debug\netcoreapp2.1\7_TheVLogger.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\bin\Debug\netcoreapp2.1\7_TheVLogger.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\bin\Debug\netcoreapp2.1\7_TheVLogger.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\bin\Debug\netcoreapp2.1\7_TheVLogger.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\bin\Debug\netcoreapp2.1\7_TheVLogger.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.dll
+C:\Softuni\Softuni-CSharp-Advanced\Lecture 3 Sets and Dictionaries Advanced\SetsAndDictionariesExercise\SetDictionaryExercises\7_TheVLogger\obj\Debug\netcoreapp2.1\7_TheVLogger.pdb
