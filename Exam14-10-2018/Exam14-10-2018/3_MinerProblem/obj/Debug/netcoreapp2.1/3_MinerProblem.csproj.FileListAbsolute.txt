@@ -1,0 +1,10 @@
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\bin\Debug\netcoreapp2.1\3_MinerProblem.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\bin\Debug\netcoreapp2.1\3_MinerProblem.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\bin\Debug\netcoreapp2.1\3_MinerProblem.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\bin\Debug\netcoreapp2.1\3_MinerProblem.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\bin\Debug\netcoreapp2.1\3_MinerProblem.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\obj\Debug\netcoreapp2.1\3_MinerProblem.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\obj\Debug\netcoreapp2.1\3_MinerProblem.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\obj\Debug\netcoreapp2.1\3_MinerProblem.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\obj\Debug\netcoreapp2.1\3_MinerProblem.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\3_MinerProblem\obj\Debug\netcoreapp2.1\3_MinerProblem.pdb

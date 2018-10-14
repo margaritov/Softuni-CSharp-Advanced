@@ -1,0 +1,10 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\bin\Debug\netcoreapp2.1\3_TicketTrouble.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\bin\Debug\netcoreapp2.1\3_TicketTrouble.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\bin\Debug\netcoreapp2.1\3_TicketTrouble.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\bin\Debug\netcoreapp2.1\3_TicketTrouble.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\bin\Debug\netcoreapp2.1\3_TicketTrouble.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\obj\Debug\netcoreapp2.1\3_TicketTrouble.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\obj\Debug\netcoreapp2.1\3_TicketTrouble.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\obj\Debug\netcoreapp2.1\3_TicketTrouble.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\obj\Debug\netcoreapp2.1\3_TicketTrouble.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\3_TicketTrouble\obj\Debug\netcoreapp2.1\3_TicketTrouble.pdb

@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\bin\Debug\netcoreapp2.1\1_Crossroads.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\bin\Debug\netcoreapp2.1\1_Crossroads.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\bin\Debug\netcoreapp2.1\1_Crossroads.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\bin\Debug\netcoreapp2.1\1_Crossroads.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\bin\Debug\netcoreapp2.1\1_Crossroads.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\1_Crossroads\obj\Debug\netcoreapp2.1\1_Crossroads.pdb

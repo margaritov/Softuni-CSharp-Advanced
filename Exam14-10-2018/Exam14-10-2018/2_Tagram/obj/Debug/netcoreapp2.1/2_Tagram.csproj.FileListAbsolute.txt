@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\bin\Debug\netcoreapp2.1\2_Tagram.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\bin\Debug\netcoreapp2.1\2_Tagram.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\bin\Debug\netcoreapp2.1\2_Tagram.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\bin\Debug\netcoreapp2.1\2_Tagram.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\bin\Debug\netcoreapp2.1\2_Tagram.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\2_Tagram\obj\Debug\netcoreapp2.1\2_Tagram.pdb

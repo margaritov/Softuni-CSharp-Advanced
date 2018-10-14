@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\bin\Debug\netcoreapp2.1\4_MovieTime.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\bin\Debug\netcoreapp2.1\4_MovieTime.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\bin\Debug\netcoreapp2.1\4_MovieTime.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\bin\Debug\netcoreapp2.1\4_MovieTime.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\bin\Debug\netcoreapp2.1\4_MovieTime.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\4_MovieTime\obj\Debug\netcoreapp2.1\4_MovieTime.pdb

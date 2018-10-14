@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\bin\Debug\netcoreapp2.1\3_CryptoBlockChain.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\bin\Debug\netcoreapp2.1\3_CryptoBlockChain.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\bin\Debug\netcoreapp2.1\3_CryptoBlockChain.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\bin\Debug\netcoreapp2.1\3_CryptoBlockChain.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\bin\Debug\netcoreapp2.1\3_CryptoBlockChain.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\3_CryptoBlockChain\obj\Debug\netcoreapp2.1\3_CryptoBlockChain.pdb

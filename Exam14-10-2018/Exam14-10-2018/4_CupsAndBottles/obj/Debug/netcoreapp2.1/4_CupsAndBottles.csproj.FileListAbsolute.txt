@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\bin\Debug\netcoreapp2.1\4_CupsAndBottles.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\bin\Debug\netcoreapp2.1\4_CupsAndBottles.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\bin\Debug\netcoreapp2.1\4_CupsAndBottles.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\bin\Debug\netcoreapp2.1\4_CupsAndBottles.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\bin\Debug\netcoreapp2.1\4_CupsAndBottles.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\4_CupsAndBottles\obj\Debug\netcoreapp2.1\4_CupsAndBottles.pdb

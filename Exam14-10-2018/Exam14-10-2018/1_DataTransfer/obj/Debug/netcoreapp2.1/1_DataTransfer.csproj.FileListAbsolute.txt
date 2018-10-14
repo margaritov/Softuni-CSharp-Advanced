@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\bin\Debug\netcoreapp2.1\1_DataTransfer.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\bin\Debug\netcoreapp2.1\1_DataTransfer.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\bin\Debug\netcoreapp2.1\1_DataTransfer.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\bin\Debug\netcoreapp2.1\1_DataTransfer.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\bin\Debug\netcoreapp2.1\1_DataTransfer.pdb
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.dll
+C:\Softuni\Softuni-CSharp-Advanced\Exam14-10-2018\Exam14-10-2018\1_DataTransfer\obj\Debug\netcoreapp2.1\1_DataTransfer.pdb

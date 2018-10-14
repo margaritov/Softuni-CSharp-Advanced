@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\bin\Debug\netcoreapp2.1\2_Sneaking.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\bin\Debug\netcoreapp2.1\2_Sneaking.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\bin\Debug\netcoreapp2.1\2_Sneaking.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\bin\Debug\netcoreapp2.1\2_Sneaking.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\bin\Debug\netcoreapp2.1\2_Sneaking.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\2_Sneaking\obj\Debug\netcoreapp2.1\2_Sneaking.pdb

@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\bin\Debug\netcoreapp2.1\4_HitList.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\bin\Debug\netcoreapp2.1\4_HitList.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\bin\Debug\netcoreapp2.1\4_HitList.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\bin\Debug\netcoreapp2.1\4_HitList.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\bin\Debug\netcoreapp2.1\4_HitList.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam11Feb2018\Exam11Feb2018\4_HitList\obj\Debug\netcoreapp2.1\4_HitList.pdb

@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\bin\Debug\netcoreapp2.1\2_ParkingFeud.deps.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\bin\Debug\netcoreapp2.1\2_ParkingFeud.runtimeconfig.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\bin\Debug\netcoreapp2.1\2_ParkingFeud.runtimeconfig.dev.json
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\bin\Debug\netcoreapp2.1\2_ParkingFeud.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\bin\Debug\netcoreapp2.1\2_ParkingFeud.pdb
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.csprojAssemblyReference.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.AssemblyInfo.cs
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.dll
+C:\Softuni\Softuni-CSharp-Advanced\PracticeRecentExams\Exam24April2018\2_ParkingFeud\obj\Debug\netcoreapp2.1\2_ParkingFeud.pdb
